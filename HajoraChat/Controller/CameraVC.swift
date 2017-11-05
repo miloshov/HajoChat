@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  CameraVC.swift
 //  HajoraChat
 //
 //  Created by Milos Hovjecki on 11/5/17.
@@ -8,7 +8,7 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class CameraVC: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
